@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/cstudy/distortion_correction/include/distortioncorrection.h
+
+/mnt/d/cstudy/distortion_correction/src/distortioncorrection.c
+../include/distortioncorrection.h
+/mnt/d/cstudy/distortion_correction/include/distortioncorrection.h
+stdio.h
+-
+
